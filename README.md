@@ -11,6 +11,5 @@ O projeto foi divido em quatro partes, sendo elas:
 - Parte I - Exploração dos Dados
 - Parte II - Transformação e Limpeza dos Dados
 - Parte III - Visualização dos Dados
-- Parte IV - Storytelling dos Dados
 
-Todas as quatro partes serão feitas em Pyhton. Porém, especificamente, as Partes III e IV serão feitas em Python e PowerBI. 
+Todas as partes serão feitas em Pyhton.
